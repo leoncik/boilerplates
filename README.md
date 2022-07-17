@@ -1,14 +1,10 @@
 # Boilerplates 
 
-A little collection of starters for frontend projects.
+## Bare-bones
 
-## Simple HTML
+The most basic structure for a project. Useful for quick tests and messing around. No dependency.
 
-## React
+### Notes
 
-- React JavaScript
-- React TypeScript
-
-## JavaScript
-
-## TypeScript
+- The HTML lang tag is set to "FR".
+- There is a basic CSS reset, including the most useful settings (like "box-sizing: border-box;")
