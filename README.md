@@ -1,16 +1,15 @@
 # Boilerplates 
 
-A little collection of starters for frontend projects.
+## React-Vite-TypeScript
 
-## Simple HTML
+A common starter with React, Vite and TypeScript
 
-- [bare-bones](https://github.com/leoncik/boilerplates/tree/bare-bones) : The most basic structure for a project. Useful for quick tests and messing around. No dependency.
+### Notes
 
-## React
-
-- React JavaScript
-- React TypeScript
-
-## JavaScript
-
-## TypeScript
+- This starter uses these pre-commit tools :
+    * [Husky](https://typicode.github.io/husky)
+    * [lint-staged](https://www.npmjs.com/package/lint-staged)
+    * [ESLint](https://eslint.org/)
+    * [Prettier](https://prettier.io/)
+- There is a basic CSS reset, including the most useful settings (like "box-sizing: border-box;")
+- Vitest is used for the tests and they will run in pre-push.
