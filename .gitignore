@@ -6,18 +6,20 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.eslintcache
 
 node_modules
 dist
+coverage
 dist-ssr
 *.local
-.directory
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
+.directory
 *.suo
 *.ntvs*
 *.njsproj
