@@ -8,9 +8,4 @@ A little collection of starters for frontend projects.
 
 ## React
 
-- React JavaScript
-- React TypeScript
-
-## JavaScript
-
-## TypeScript
+- [react-vite-typescript](https://github.com/leoncik/boilerplates/tree/react-vite-typescript) : A complete React starter using Vite and TypeScript. Several dependencies are added in order to ensure code quality (linter, tests and code formatter).
